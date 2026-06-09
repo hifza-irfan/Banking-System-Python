@@ -36,11 +36,5 @@ banking-system/
 - Can't withdraw more than balance
 - Your data stays after closing program
 
-##Author
-- Hifza Irfan
-
-## jenc
-- Python 3.x only (no external packages needed)
-
 ## Author
 - Hifza Irfan

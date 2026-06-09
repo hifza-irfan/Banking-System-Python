@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data file (contains user accounts and PINs)
+bank_data.json
+
+# OS files
+.DS_Store
+Thumbs.db

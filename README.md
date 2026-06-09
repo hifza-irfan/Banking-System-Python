@@ -12,7 +12,7 @@ A Python-based banking system that runs in the terminal. Create accounts, deposi
 
 ## Quick Start
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/banking-system.git
+git clone https://github.com/hifza-irfan/banking-system.git
 
 # Run the program
 python banking_system.py
@@ -35,3 +35,6 @@ banking-system/
 - PIN must be exactly 4 digits
 - Can't withdraw more than balance
 - Your data stays after closing program
+
+##Author
+- Hifza Irfan

@@ -38,3 +38,9 @@ banking-system/
 
 ##Author
 - Hifza Irfan
+
+## jenc
+- Python 3.x only (no external packages needed)
+
+## Author
+- Hifza Irfan
